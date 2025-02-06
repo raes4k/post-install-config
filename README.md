@@ -46,7 +46,7 @@ A new Level II Support Team will have to be created to supplement the Level I Su
 <br />
 
 <p>
-<img src="https://i.imgur.com/UnYyh3B.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/vU2hVNO.png" height="80%" width="80%" alt="Configuration Steps"/>
 <img src="https://i.imgur.com/k0lElHH.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
