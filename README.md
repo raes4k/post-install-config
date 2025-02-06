@@ -19,7 +19,7 @@ This lab demonstrates the necessary changes I make to configure osTicket so it c
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/S33TPEZ.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/Dz46OSe.png" height="80%" width="80%" alt="Configuration Steps"/>
 <img src="https://i.imgur.com/7HyoONM.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
