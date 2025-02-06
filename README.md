@@ -71,7 +71,7 @@ Service Level Agreements (SLAs) will have to be made in order to categorize tick
 <br />
 
 <p>
-<img src="https://i.imgur.com/v3zTkfy.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/tjoa6w3.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
 Finally, Help Topics need to be created to help users select an appropriate category that describes their problem so that Agents get an idea of what problem is described in the ticket. To make a new Help Topic, enter the Admin panel and open the Manage menu. Click on Help Topics and click on Add New Help Topic. In this case, I have added the following in order to use later for when I create new tickets to resolve: Business Critical Outage, Personal Computer Issues, Equipment Reset, and Password Request.
