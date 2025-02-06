@@ -63,7 +63,7 @@ New users will be created so they can create tickets so that the agents can rece
 <br />
 
 <p>
-<img src="https://i.imgur.com/pI1Cf3Q.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/aKirgoL.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
 Service Level Agreements (SLAs) will have to be made in order to categorize tickets according to their level of impact. To make new SLAs, enter the Admin panel and open the Manage menu. Click on SLA and create any needed SLAs. In this case, SEV-A, B, and C have been created to categorize tickets that need to be resolved within 1 hour, 4 hours, and 8 hours respectively.
